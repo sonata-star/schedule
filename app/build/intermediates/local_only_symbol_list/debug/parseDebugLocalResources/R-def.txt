@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable widget_schedule_background
+id notification_detail
+id notification_time
+id notification_title
+id widget_date
+id widget_empty
+id widget_list
+id widget_subject
+id widget_time
+id widget_title
+layout notification_lesson
+layout widget_schedule
+layout widget_schedule_row
+xml schedule_widget_info

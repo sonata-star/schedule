@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.schedule.app-debug-51:/layout_widget_schedule_row.xml.flat",
+        "source": "com.example.schedule.app-main-53:/layout/widget_schedule_row.xml"
+    },
+    {
+        "merged": "com.example.schedule.app-debug-51:/layout_widget_schedule.xml.flat",
+        "source": "com.example.schedule.app-main-53:/layout/widget_schedule.xml"
+    },
+    {
+        "merged": "com.example.schedule.app-debug-51:/drawable_widget_schedule_background.xml.flat",
+        "source": "com.example.schedule.app-main-53:/drawable/widget_schedule_background.xml"
+    },
+    {
+        "merged": "com.example.schedule.app-debug-51:/layout_notification_lesson.xml.flat",
+        "source": "com.example.schedule.app-main-53:/layout/notification_lesson.xml"
+    },
+    {
+        "merged": "com.example.schedule.app-debug-51:/xml_schedule_widget_info.xml.flat",
+        "source": "com.example.schedule.app-main-53:/xml/schedule_widget_info.xml"
+    }
+]
